@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-21T11:13:28.184Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="0E_76dmdpuLX8q86QKdx" version="24.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-21T11:20:07.540Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="3qCzZMp-BSn58wHhcH2u" version="24.6.0" type="github">
   <diagram name="Страница — 1" id="wAo10VZih9NeWetnVAsV">
     <mxGraphModel dx="989" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -29,10 +29,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ALdWQ-n8G7G-X8uqLfA8-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;1. Страница Приветсвия&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="470" y="130" width="135" height="50" as="geometry" />
+          <mxGeometry x="470" y="124" width="135" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ALdWQ-n8G7G-X8uqLfA8-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;curved=0;" edge="1" parent="1" source="ALdWQ-n8G7G-X8uqLfA8-4" target="ALdWQ-n8G7G-X8uqLfA8-3">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="664" y="104" />
+              <mxPoint x="537" y="104" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ALdWQ-n8G7G-X8uqLfA8-4" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;Start&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="620" y="10" width="88" height="80" as="geometry" />
@@ -49,8 +54,8 @@
         <mxCell id="ALdWQ-n8G7G-X8uqLfA8-11" value="2. Страница Аутентификации" style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="17" y="235" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ALdWQ-n8G7G-X8uqLfA8-12" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1.Форма&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;1.Страница с запросом логина и пароля&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;2.Кнопка с отправкой&lt;/div&gt;&lt;div&gt;2.Футер.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;PS:&lt;br&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- Данные должны уходить и проверяться на бэкенде&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="17" y="264" width="340" height="110" as="geometry" />
+        <mxCell id="ALdWQ-n8G7G-X8uqLfA8-12" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1.Форма&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;1.Страница с запросом логина и пароля&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;2.Кнопка с отправкой&lt;/div&gt;&lt;div&gt;2.Футер.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;PS:&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- Запрашиваем либо email&lt;br&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- Данные должны уходить и проверяться на бэкенде&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="17" y="254" width="340" height="130" as="geometry" />
         </mxCell>
         <mxCell id="ALdWQ-n8G7G-X8uqLfA8-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;startArrow=none;startFill=0;" edge="1" parent="1" source="ALdWQ-n8G7G-X8uqLfA8-9" target="ALdWQ-n8G7G-X8uqLfA8-1">
           <mxGeometry relative="1" as="geometry" />
