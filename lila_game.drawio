@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-21T10:32:47.271Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ez-dDYa_f-djUGi4vKLL" version="24.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-21T10:39:06.242Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="j4CbRTnshtZgRrW648-R" version="24.6.0" type="github">
   <diagram name="Страница — 1" id="wAo10VZih9NeWetnVAsV">
-    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,8 +22,8 @@
         <mxCell id="ALdWQ-n8G7G-X8uqLfA8-7" value="1. Старница приветсвия" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="10" y="10" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ALdWQ-n8G7G-X8uqLfA8-8" value="Лэндинг Пейдж, с&amp;nbsp;&lt;div&gt;-верхним меню:&lt;div&gt;&lt;ul&gt;&lt;li&gt;лого&lt;/li&gt;&lt;li&gt;войти, зарегистрироваться&lt;/li&gt;&lt;li&gt;???&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="20" y="30" width="210" height="120" as="geometry" />
+        <mxCell id="ALdWQ-n8G7G-X8uqLfA8-8" value="&lt;ol style=&quot;padding-left: 10px; margin-bottom: 5px; margin-top: 5px;&quot;&gt;&lt;li&gt;Лэндинг Пейдж, с&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;верхним меню:&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;div&gt;&lt;ul style=&quot;padding-left: 30px; margin-top: 5px; padding-bottom: 0px; margin-bottom: 5px;&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;лого&lt;/span&gt;&lt;/li&gt;&lt;li&gt;войти, зарегистрироваться&lt;/li&gt;&lt;li&gt;???&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;ul style=&quot;padding-left: 30px; margin-top: 5px; padding-bottom: 0px; margin-bottom: 5px;&quot;&gt;&lt;li&gt;Первый блок с приветствием&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;После него сразу приглашение&amp;nbsp;&lt;/div&gt;&lt;div&gt;к регистрации или входу.&lt;/div&gt;&lt;div&gt;Можно Карусель с картинками&lt;/div&gt;&lt;div&gt;Футер:&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;О нас&lt;/li&gt;&lt;li&gt;???&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="30" width="220" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
