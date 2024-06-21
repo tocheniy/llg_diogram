@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-21T11:20:07.540Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="3qCzZMp-BSn58wHhcH2u" version="24.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-21T11:21:17.950Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ZCX0WRTbKTQxTJbddVxN" version="24.6.0" type="github">
   <diagram name="Страница — 1" id="wAo10VZih9NeWetnVAsV">
     <mxGraphModel dx="989" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -52,10 +52,10 @@
           <mxGeometry x="620" y="186" width="175" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ALdWQ-n8G7G-X8uqLfA8-11" value="2. Страница Аутентификации" style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="17" y="235" width="240" height="30" as="geometry" />
+          <mxGeometry x="17" y="225" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ALdWQ-n8G7G-X8uqLfA8-12" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1.Форма&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;1.Страница с запросом логина и пароля&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;2.Кнопка с отправкой&lt;/div&gt;&lt;div&gt;2.Футер.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;PS:&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- Запрашиваем либо email&lt;br&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- Данные должны уходить и проверяться на бэкенде&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="17" y="254" width="340" height="130" as="geometry" />
+        <mxCell id="ALdWQ-n8G7G-X8uqLfA8-12" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1.Форма&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;1.Страница с запросом логина и пароля&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;2.Кнопка с отправкой&lt;/div&gt;&lt;div&gt;2.Футер.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;PS:&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- Запрашиваем либо email или номер телефона,&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;но не хочется&lt;br&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- Данные должны уходить и проверяться на бэкенде&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="17" y="239" width="340" height="140" as="geometry" />
         </mxCell>
         <mxCell id="ALdWQ-n8G7G-X8uqLfA8-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;startArrow=none;startFill=0;" edge="1" parent="1" source="ALdWQ-n8G7G-X8uqLfA8-9" target="ALdWQ-n8G7G-X8uqLfA8-1">
           <mxGeometry relative="1" as="geometry" />
