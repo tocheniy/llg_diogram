@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-29T13:22:56.399Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="smrtuh9SGNWrl4coNgEj" version="24.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-29T13:43:52.686Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="BCEHiRguNfkrG0Os6n-C" version="24.6.3" type="github">
   <diagram name="Страница — 1" id="wAo10VZih9NeWetnVAsV">
     <mxGraphModel dx="1304" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -147,7 +147,7 @@
         <mxCell id="T0BodAbVlFInUynugW2P-18" value="Меню пополнения баланса&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="675" y="765" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T0BodAbVlFInUynugW2P-21" value="Второй экран приветствия с погружением&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="T0BodAbVlFInUynugW2P-21" value="Второй экран приветствия с погружением&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="411" y="890" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f9N-zyGbEbivDNl4mcsj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.471;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" edge="1" parent="1" source="T0BodAbVlFInUynugW2P-10" target="T0BodAbVlFInUynugW2P-16">
